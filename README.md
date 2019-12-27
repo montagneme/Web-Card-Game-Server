@@ -1,2 +1,2 @@
-# Web-Card-Game-Server
-web端卡牌游戏(服务器端)
+# web端卡牌游戏(服务器端)
+> 利用websocket协议通信的一款卡牌小游戏。游戏利用node.js语言平台和socket.io框架进行实现。这时服务器端，需要客户端来进行交互
